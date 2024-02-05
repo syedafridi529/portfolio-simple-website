@@ -1,4 +1,4 @@
-# My portfolio-simple-website
+# My portfolio website
 
 Welcome to my personal portfolio website! This project consists of two main pages - the Home page and the Contact page.
 
@@ -11,7 +11,7 @@ Welcome to my personal portfolio website! This project consists of two main page
 
 ## About
 
-This repository contains the code for my personal portfolio website, where I showcase my projects, skills, and provide a brief introduction about myself.
+This repository contains the code for my portfolio website, where I showcase my projects, and skills, and provide a brief introduction about myself.
 
 ## Pages
 
