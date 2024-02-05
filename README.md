@@ -1,5 +1,4 @@
-# portfolio-simple-website
-# My Portfolio
+# My portfolio-simple-website
 
 Welcome to my personal portfolio website! This project consists of two main pages - the Home page and the Contact page.
 
@@ -9,8 +8,6 @@ Welcome to my personal portfolio website! This project consists of two main page
 - [Pages](#pages)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ## About
 
